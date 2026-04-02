@@ -1,7 +1,7 @@
 def add_requisition():
     #using counter for unique staff id
     counter=1
-    requisition_id=counter+1000
+    requisition_id=counter+10000
     print("Enter your information:")
     date = input("Date: ")
     staff_id = input("Staff ID: ")
